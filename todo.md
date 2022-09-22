@@ -4,6 +4,7 @@
 - Wire amp and speaker to sound board
 - Find and edit audio files so that they lead to a seamless loop
 - Name audio files according to triggers
+- Design 'piano keys' to attach to push buttons
 - Design housing for button panel
 - Design housing for sound board, amp, and battery
 - Design housing for speaker (all or some housing may be together)
