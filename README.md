@@ -25,5 +25,7 @@ The sound card has a specific file naming system that is necessary for the progr
 
 ### Wiring
 
+### Casing Design
+
 
 
