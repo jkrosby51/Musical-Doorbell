@@ -1,4 +1,4 @@
-## To-Do
+### To-Do
 (not necessarily in order)
 - Wire buttons to triggers
 - Wire amp and speaker to sound board
