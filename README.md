@@ -1,6 +1,6 @@
 # Piano Doorbell
 
-Project is currently incomplete, [see here for updated to-do list](https://github.com/jkrosby51/piano_doorbell/edit/main/to-do.md).
+Project is currently incomplete, [see here for updated to-do list](https://github.com/jkrosby51/piano_doorbell/blob/main/to-do.md).
 
 ## Resources
 
