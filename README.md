@@ -1,4 +1,4 @@
-# Piano Doorbell
+# Musical Doorbell
 
 Project is currently incomplete, [see here for updated to-do list](https://github.com/jkrosby51/piano_doorbell/blob/main/todo.md).
 
