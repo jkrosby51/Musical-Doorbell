@@ -1,6 +1,6 @@
 ### To-Do
 (not necessarily in order)
-- ~~Wire buttons to triggers
+- ~~Wire buttons to triggers~~
 - Wire amp and speaker to sound board
 - Find and edit audio files so that they lead to a seamless loop
 - Name audio files according to triggers
