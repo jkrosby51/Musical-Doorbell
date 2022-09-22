@@ -1,5 +1,7 @@
 # Piano Doorbell
 
+Project is uncomplete, [see here for updated to-do list](https://github.com/jkrosby51/piano_doorbell/edit/main/to-do.md).
+
 ## Resources
 
 ### Hardware & Guides
